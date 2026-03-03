@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### Current Projects
-* 🤔LeetTracking - Auto-sync LeetCode to Notion with Ebbinghaus-based review reminders.
+* 🤔[LeetTracking](https://github.com/Garyouki/LeetTracking) - Auto-sync LeetCode to Notion with Ebbinghaus-based review reminders.
