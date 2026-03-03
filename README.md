@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Current Projects
+* 🤔LeetTracking - Auto-sync LeetCode to Notion with Ebbinghaus-based review reminders.
